@@ -11,8 +11,8 @@ github_repo: "https://github.com/chstrokin/chstrokin.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "我的个性只不过是主的预编译文件.asm"
+sidebar-avatar: /img/challange.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
